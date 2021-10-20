@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @irfanhaider99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Irfan
+- 👀 I’m interested in motion recognition/computer vision
+- 🌱 I’m currently learning Multimodal feature fision
+- 💞️ I’m looking to collaborate on image analysis
+- 📫 Feel free to email me at irfan_haider99@hotmail.com
 
 <!---
 irfanhaider99/irfanhaider99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
