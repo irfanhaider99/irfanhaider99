@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Irfan
-- 👀 I’m interested in motion recognition/computer vision
+- 👀 I’m interested in emotion recognition/computer vision
 - 🌱 I’m currently learning Multimodal feature fision
 - 💞️ I’m looking to collaborate on image analysis
 - 📫 Feel free to email me at irfan_haider99@hotmail.com
