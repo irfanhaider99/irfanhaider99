@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Irfan
-- 👀 I’m interested in emotion recognition/computer vision
-- 💞️ I’m looking to collaborate on image analysis
+- 👀 interested in emotion recognition/computer vision
+- 💞️ looking to collaborate on image analysis
 - 📫 Feel free to email me at irfan_haider99@hotmail.com
 
 <!---
